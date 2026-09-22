@@ -1,3 +1,7 @@
 # My-First-Repo
 
-This is my readme.md file for this repo
+
+A bullet list.
+A numbered list.
+Some italic text.
+Some bold text.
